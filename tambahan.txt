@@ -3,3 +3,4 @@ Daftar tambahan resolusi
   - bab 1
   - bab 2
 - skripsi
+- seminar
