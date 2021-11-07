@@ -1,4 +1,5 @@
 Daftar tambahan resolusi
 - buat proposal
-- buat judul
+  - bab 1
+  - bab 2
 - skripsi
