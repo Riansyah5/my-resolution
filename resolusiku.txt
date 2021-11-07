@@ -2,3 +2,4 @@ target tahun ini
 - hafal kitab safinatunnajah
 - mahir php
 - mahir bootstrap
+- belajar javascript
