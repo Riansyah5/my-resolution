@@ -4,3 +4,4 @@ Daftar tambahan resolusi
 - buat judul
   - perencanaan
 - skripsi
+- seminar
